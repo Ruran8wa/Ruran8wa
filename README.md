@@ -47,5 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+# 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruran8wa&" alt="ruran8wa" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ruran8wa&theme=dark&hide_border=false)<br/>
