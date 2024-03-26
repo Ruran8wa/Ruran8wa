@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rurangwa</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
 
-[![](https://visitcount.itsvg.in/api?id=ruran8wa&icon=0&color=3&align=center)](https://visitcount.itsvg.in)
-
 - 🔭 I’m currently working on **NextJs**
 
 - 🌱 I’m currently learning **Jest**
@@ -52,3 +50,5 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ruran8wa&theme=dark&hide_border=false)<br/>
+
+[![](https://visitcount.itsvg.in/api?id=ruran8wa&icon=0&color=3)](https://visitcount.itsvg.in)
