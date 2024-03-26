@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/prince-rurangwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-rurangwa" height="30" width="40" /></a>
 <a href="https://instagram.com/itsjusttking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsjusttking" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ruran8wa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruran8wa" height="30" width="40" /></a>
-<a href="https://discord.gg/rurangwa" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+<a href="https://discord.gg/rurangwa" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
