@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rurangwa</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1>Hi 👋, I'm Rurangwa</h1>
+<h3>A passionate Software Engineer</h3>
 
+<h3>Technical Expertise</h3>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jest,jquery,nodejs,regex,bootstrap,tailwind,react,ts,git,php,postman)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
