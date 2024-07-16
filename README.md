@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Rurangwa</h1>
 <h3>A passionate Software Engineer</h3>
 
-<h3>Technical Expertise</h3>
+# Technical Expertise
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jest,jquery,nodejs,regex,bootstrap,tailwind,react,ts,git,php,postman)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
