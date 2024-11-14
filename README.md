@@ -1,6 +1,6 @@
 # Personal Stats.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruran8wa&theme=dark&border_radius=8&exclude_days=Sun)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ruran8wa&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 # Visitors.
 
