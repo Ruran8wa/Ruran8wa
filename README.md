@@ -1,6 +1,6 @@
 # Hi, I'm Prince Rurangwa
 
-I'm a **Software Engineering Graduate** at [African Leadership University](https://www.alueducation.com/) with a strong focus on **web development and machine learning**.  
+I'm a **Software Engineering Graduate** at [African Leadership University](https://www.alueducation.com/) with a strong focus on **Web development and ML**.  
 Right now, I'm diving deep into **Next.js, React, Tailwind CSS,TypeScript, NestJS** while building real-world projects to sharpen my skills.
 
 ---
