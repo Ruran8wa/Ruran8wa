@@ -7,7 +7,7 @@ Right now, I'm diving deep into **Next.js, React, Tailwind CSS,TypeScript, NestJ
 
 ## About Me
 - From **Kigali, Rwanda**  
-- Passionate about **Solving day to day frustrations though coding**    
+- Passionate about **Solving day to day frustrations through software projects**    
 - Always learning, experimenting, and building
 
 ---
