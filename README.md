@@ -46,4 +46,4 @@ Right now, I'm diving deep into **Next.js, React, Tailwind CSS,TypeScript, NestJ
 
 # Personal Stats.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruran8wa&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ruran8wa&theme=dark)](https://git.io/streak-stats)
