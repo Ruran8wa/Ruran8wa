@@ -1,7 +1,7 @@
 # Hi, I'm Prince Rurangwa
 
 I'm a **Software Engineering Graduate** at [African Leadership University](https://www.alueducation.com/) with a strong focus on **Web development and ML**.  
-Right now, I'm diving deep into **ASP NET** while building real-world projects to sharpen my skills.
+Right now, I'm diving deep into **ASPNET** while building real-world projects to sharpen my skills.
 
 ---
 
