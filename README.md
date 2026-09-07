@@ -1,7 +1,7 @@
 # Hi, I'm Prince Rurangwa
 
 I'm a **Software Engineering Graduate** at [African Leadership University](https://www.alueducation.com/) with a strong focus on **Web development and ML**.  
-Right now, I'm diving deep into **ASPNET** while building real-world projects to sharpen my skills.
+Right now, I'm diving deep into **ASP.NET** while building real-world projects to sharpen my skills.
 
 ---
 
@@ -15,7 +15,7 @@ Right now, I'm diving deep into **ASPNET** while building real-world projects to
 ## Tech Stack
 - **Languages**: C#, TypeScript, Python(in machine learning projects)
 - **Frontend**: React, Next.js, Tailwind CSS  
-- **Backend/Tools**:ASPNET, NestJS, Node.js, Git/GitHub  
+- **Backend/Tools**:ASP.NET, NestJS, Node.js, Git/GitHub  
 - **Other**: UI/UX design basics, Agile teamwork
 
 ---
@@ -27,7 +27,7 @@ Right now, I'm diving deep into **ASPNET** while building real-world projects to
 ---
 
 ## Current Focus
-- Mastering **ASPNET** and full-stack development  
+- Mastering **ASP.NET** and full-stack development  
 - Building a strong **portfolio** of real-world projects  
 - Preparing for opportunities in **web development and machine learning based roles**
 
